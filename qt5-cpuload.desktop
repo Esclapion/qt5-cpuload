@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/usr/bin/qt5-cpuload
+Name=Cpu load
+Name[fr]=Charge CPU
+Type=Application
+Version=1.0
+Icon=utilities-system-monitor
+Categories=System
+
